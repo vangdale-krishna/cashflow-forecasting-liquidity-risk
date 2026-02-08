@@ -29,3 +29,15 @@ by predicting future cash flow and identifying high-risk liquidity periods.
 - Accurate cash flow forecasting using ensemble models
 - Probability-based liquidity risk alerts
 - Business-friendly decision support interface
+
+## 📊 Dashboard Preview
+
+### Key Financial Indicators
+![Dashboard KPIs](screenshots/dashboard_kpis.png)
+
+### Cash Flow Forecast (Actual vs Predicted)
+![Cash Flow Forecast](screenshots/forecast_chart.png)
+
+### Liquidity Risk Alerts
+![Risk Alerts](screenshots/risk_alerts.png)
+
